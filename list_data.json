@@ -1,22 +1,40 @@
 {
-	"movies": [
+	"Favorite Indie Games": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Title": "Inscryption",
+			"Studio": "Daniel Mullins Games",
+			"Genre": "Rougelike deckbuilder",
+			"Year": "2021"
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Title": "Ori and the Will of the Wisps",
+			"Studio": "Moon Studio",
+			"Genre": "Adventure-platformer",
+			"Year": "2020"
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"Title": "Hades",
+			"Studio": "Supergiant",
+			"Genre": "Action-roguelike, dungeon-crawler",
+			"Year": "2020"
+		},
+		{
+			"Title": "OMORI",
+			"Studio": "Omocat",
+			"Genre": "RPG",
+			"Year": "2020"
+		},
+		{
+			"Title": "GRIS",
+			"Studio": "Nomada Studio",
+			"Genre": "Adventure-platformer",
+			"Year": "2018"
+		},
+		{
+			"Title": "Hyper Light Drifter",
+			"Studio": "Heart Machine",
+			"Genre": "Action RPG",
+			"Year": "2016"
 		}
 	]
 }
